@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Marjuki Ibrahim",
   title: "IT Related Thing",
-  email: "marjuki.ibra@gmail.com",
+  email: "marjuki@technuvibe.com",
   gitHub: "emmjje",
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/marjuki/",
