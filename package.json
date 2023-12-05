@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "ducator JS Codespace Template",
+  "description": "educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://emmjje.github.io/My-Portfolio",
   "scripts": {
