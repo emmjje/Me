@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "Experienced professional with a versatile background in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle (SDLC). Passionate about creating robust and scalable solutions that optimize efficiency and enhance security measures.";
+ */ const description = "Experienced professional with a versatile background in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle. Passionate about creating robust and scalable solutions that optimize efficiency and enhance security measures.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28904,6 +28904,6 @@ $RefreshReg$(_c, "Portfolio");
 },{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/Me-work-Laptop.jpg":"fiRiw","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fiRiw":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "Me-work-Laptop.318df57c.jpg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
+},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequiredeba")
 
 //# sourceMappingURL=index.975ef6c8.js.map
