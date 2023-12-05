@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Experienced professional with a versatile background in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle (SDLC). Passionate about creating robust and scalable solutions that optimize efficiency and enhance security measures.";
+  "Experienced professional with a versatile background in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle. Passionate about creating robust and scalable solutions that optimize efficiency and enhance security measures.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
