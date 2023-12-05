@@ -1,7 +1,7 @@
 {
-  "name": "my-portfolio",
+  "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "my portfolio",
+  "description": "ducator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://emmjje.github.io/My-Portfolio",
   "scripts": {
